@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="foo.FooTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-07-30T10:24:03" hostname="C02RM3F1G8WM.local" time="0.102">
+  <properties/>
+  <testcase name="should create a set" classname="foo.FooTest" time="0.101"/>
+  <testcase name="should create a list" classname="foo.FooTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
